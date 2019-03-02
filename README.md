@@ -32,9 +32,11 @@ Through this method, not only the similarity of images is tested with high-level
 
 If you find this useful in your work, please consider citing the following reference:
 
+```c
 @article{liu2019synthesizing,
   title={Synthesizing New Retinal Symptom Images by Multiple Generative Models},
   author={Liu, Yi-Chieh and Yang, Hao-Hsiang and Yang, Chao-Han Huck and Huang, Jia-Hong and Tian, Meng and Morikawa, Hiromasa and Tsai, Yi-Chang James and Tegner, Jesper},
   journal={AI for Retinal Image Analysis(AIRIA) Workshop, ACCV 2018},
   year={2018}
 }
+```
