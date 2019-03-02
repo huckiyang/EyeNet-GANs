@@ -35,6 +35,6 @@ If you would like to cite this work as a reference, our bib file is
 @article{liu2019synthesizing,
   title={Synthesizing New Retinal Symptom Images by Multiple Generative Models},
   author={Liu, Yi-Chieh and Yang, Hao-Hsiang and Yang, Chao-Han Huck and Huang, Jia-Hong and Tian, Meng and Morikawa, Hiromasa and Tsai, Yi-Chang James and Tegner, Jesper},
-  journal={arXiv preprint arXiv:1902.04147},
-  year={2019}
+  journal={AI for Retinal Image Analysis Workshop(AIRIA), ACCV 2018},
+  year={2018}
 }
