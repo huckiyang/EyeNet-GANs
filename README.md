@@ -1,5 +1,15 @@
 # EyeNet_GANs
 ACCV'18 - Synthesizing New Retinal Symptom Images by Multiple Generative Models - Pytorch Implementation 
+If you find this useful in your work, please consider citing the following reference:
+
+```c
+@article{liu2019synthesizing,
+  title={Synthesizing New Retinal Symptom Images by Multiple Generative Models},
+  author={Liu, Yi-Chieh and Yang, Hao-Hsiang and Yang, Chao-Han Huck and Huang, Jia-Hong and Tian, Meng and Morikawa, Hiromasa and Tsai, Yi-Chang James and Tegner, Jesper},
+  journal={AI for Retinal Image Analysis(AIRIA) Workshop, ACCV 2018},
+  year={2018}
+}
+```
 
 Retinalimage collection contains three types of photography that are fluorescein angiography(FA), optical coherence tomography (OCT) and color fundus photography(CFP). FA are gray-scale images and CFP are colorful images. CFP and FA imaging are reliable for whole fundus, and used as our dataset.
 
@@ -29,14 +39,3 @@ The class activation maps (CAMs) in [8] provide a method that localizes features
 Through this method, not only the similarity of images is tested with high-level disease features, but a series of pathological details is built.
 
 ![image](https://github.com/huckiyang/EyeNet-GANs/blob/master/CAMs/CAM-GA-GA_01-resnet50.jpg)
-
-If you find this useful in your work, please consider citing the following reference:
-
-```c
-@article{liu2019synthesizing,
-  title={Synthesizing New Retinal Symptom Images by Multiple Generative Models},
-  author={Liu, Yi-Chieh and Yang, Hao-Hsiang and Yang, Chao-Han Huck and Huang, Jia-Hong and Tian, Meng and Morikawa, Hiromasa and Tsai, Yi-Chang James and Tegner, Jesper},
-  journal={AI for Retinal Image Analysis(AIRIA) Workshop, ACCV 2018},
-  year={2018}
-}
-```
