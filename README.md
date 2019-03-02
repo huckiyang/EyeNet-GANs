@@ -10,17 +10,17 @@ To improve the quality of generated images, we chose DCGANs and WGANs to establi
 
 ## Fundus images with symptom of geographic atrophy (GA) via WGAN
 
-[!image](https://github.com/huckiyang/EyeNet-GANs/blob/master/final_imgs/GA_01.png)
+![image](https://github.com/huckiyang/EyeNet-GANs/blob/master/final_imgs/GA_01.png)
 
-[!image](https://github.com/huckiyang/EyeNet-GANs/blob/master/wgan_img/wgan0929_GA/39500.png)
+![image](https://github.com/huckiyang/EyeNet-GANs/blob/master/wgan_img/wgan0929_GA/39500.png)
 
 ### path: /EyeNet-GANs/blob/masterwgan_img/wgan0929_GA/
 
 ## Drusen with symptom of fluorescein angiography (FA) via WGAN
 
-[!image](https://github.com/huckiyang/EyeNet-GANs/blob/master/final_imgs/drusen_01.png)
+![image](https://github.com/huckiyang/EyeNet-GANs/blob/master/final_imgs/drusen_01.png)
 
-[!image](https://github.com/huckiyang/EyeNet-GANs/blob/master/wgan_img/wgan0929_GA/39500.png)
+![image](https://github.com/huckiyang/EyeNet-GANs/blob/master/wgan_img/wgan0929_GA/39500.png)
 
 ### path EyeNet-GANs/wgan_img/wgan_drusen_fa/
 
@@ -28,7 +28,7 @@ To improve the quality of generated images, we chose DCGANs and WGANs to establi
 The class activation maps (CAMs) in [8] provide a method that localizes features on images. 
 Through this method, not only the similarity of images is tested with high-level disease features, but a series of pathological details is built.
 
-[!image](https://github.com/huckiyang/EyeNet-GANs/blob/master/CAMs/CAM-GA-GA_01-resnet50.jpg)
+![image](https://github.com/huckiyang/EyeNet-GANs/blob/master/CAMs/CAM-GA-GA_01-resnet50.jpg)
 
 If you would like to cite this work as a reference, our bib file is 
 
