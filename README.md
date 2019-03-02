@@ -30,7 +30,7 @@ Through this method, not only the similarity of images is tested with high-level
 
 ![image](https://github.com/huckiyang/EyeNet-GANs/blob/master/CAMs/CAM-GA-GA_01-resnet50.jpg)
 
-If you would like to cite this work as a reference, our bib file is 
+If you find this useful in your work, please consider citing the following reference:
 
 @article{liu2019synthesizing,
   title={Synthesizing New Retinal Symptom Images by Multiple Generative Models},
