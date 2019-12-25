@@ -1,4 +1,11 @@
 # EyeNet_GANs
+
+- run
+
+```shell
+$ python torch_code_0930/wgan-gp.py
+```
+
 ACCV'18 - Synthesizing New Retinal Symptom Images by Multiple Generative Models - Pytorch Implementation 
 If you find this useful in your work, please consider citing the following reference:
 
@@ -24,7 +31,7 @@ To improve the quality of generated images, we chose DCGANs and WGANs to establi
 
 ![image](https://github.com/huckiyang/EyeNet-GANs/blob/master/wgan_img/wgan0929_GA/39500.png)
 
-### path: /EyeNet-GANs/blob/masterwgan_img/wgan0929_GA/
+- path: ``/EyeNet-GANs/blob/masterwgan_img/wgan0929_GA/``
 
 ## Drusen with symptom of fluorescein angiography (FA) via WGAN
 
@@ -32,7 +39,7 @@ To improve the quality of generated images, we chose DCGANs and WGANs to establi
 
 ![image](https://github.com/huckiyang/EyeNet-GANs/blob/master/wgan_img/wgan0929_dusn_color_enhanced/38000.png)
 
-### path EyeNet-GANs/wgan_img/wgan_drusen_fa/
+- path ``EyeNet-GANs/wgan_img/wgan_drusen_fa/``
 
 ## Class Activation Map (CAM) result on geographic atrophy (GA)
 The class activation maps (CAMs) in [8] provide a method that localizes features on images. 
