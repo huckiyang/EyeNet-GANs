@@ -47,3 +47,7 @@ The class activation maps (CAMs) in [8] provide a method that localizes features
 Through this method, not only the similarity of images is tested with high-level disease features, but a series of pathological details is built.
 
 ![image](https://github.com/huckiyang/EyeNet-GANs/blob/master/CAMs/CAM-GA-GA_01-resnet50.jpg)
+
+```shell
+$ python /CAMs/pytorch_CAM.py
+```
