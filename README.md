@@ -1,4 +1,4 @@
-# EyeNet_GANs
+# EyeNet_GANs ACCV 2018
 
 ![image](https://github.com/huckiyang/EyeNet-GANs/blob/master/final_imgs/GA_01.png)
 
