@@ -1,6 +1,8 @@
 # EyeNet_GANs
 
-- run
+![image](https://github.com/huckiyang/EyeNet-GANs/blob/master/final_imgs/GA_01.png)
+
+- run and contact: yliu3233 gatech edu
 
 ```shell
 $ python torch_code_0930/wgan-gp.py
@@ -27,7 +29,6 @@ To improve the quality of generated images, we chose DCGANs and WGANs to establi
 
 ## Fundus images with symptom of geographic atrophy (GA) via WGAN
 
-![image](https://github.com/huckiyang/EyeNet-GANs/blob/master/final_imgs/GA_01.png)
 
 ![image](https://github.com/huckiyang/EyeNet-GANs/blob/master/wgan_img/wgan0929_GA/39500.png)
 
